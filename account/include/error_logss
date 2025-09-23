@@ -1,0 +1,32 @@
+[23-Aug-2022 10:43:16 America/New_York] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The Messaging Service Sid  MGc1aba905d850dcd8f951b65134074c65 is invalid. in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC310...', Array, Array)
+#2 /home/bankhpvo/public_html/include/twilioController.php(18): Twilio\Rest\Api\V2010\Account\MessageList->create('+2347037810014', Object(Twilio\Values))
+#3 /home/bankhpvo/public_html/include/twilioController.php(27): twilioController::sendSmsCode('+2347037810014', 'Helll Ofofo  ka...')
+#4 {main}
+  thrown in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php on line 85
+[23-Aug-2022 10:44:25 America/New_York] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The Messaging Service Sid  MGc1aba905d850dcd8f951b65134074c65 is invalid. in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC310...', Array, Array)
+#2 /home/bankhpvo/public_html/include/twilioController.php(18): Twilio\Rest\Api\V2010\Account\MessageList->create('+2347037810014', Object(Twilio\Values))
+#3 /home/bankhpvo/public_html/include/twilioController.php(27): twilioController::sendSmsCode('+2347037810014', 'Helll Ofofo  ka...')
+#4 {main}
+  thrown in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php on line 85
+[23-Aug-2022 10:50:29 America/New_York] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The Messaging Service Sid  MGc1aba905d850dcd8f951b65134074c65 is invalid. in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC310...', Array, Array)
+#2 /home/bankhpvo/public_html/include/twilioController.php(18): Twilio\Rest\Api\V2010\Account\MessageList->create('+2347037810014', Object(Twilio\Values))
+#3 /home/bankhpvo/public_html/include/twilioController.php(27): twilioController::sendSmsCode('+2347037810014', 'Helll Ofofo  ka...')
+#4 {main}
+  thrown in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php on line 85
+[23-Aug-2022 10:50:32 America/New_York] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The Messaging Service Sid  MGc1aba905d850dcd8f951b65134074c65 is invalid. in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php:85
+Stack trace:
+#0 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php(219): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Rest/Api/V2010/Account/MessageList.php(66): Twilio\Version->create('POST', '/Accounts/AC310...', Array, Array)
+#2 /home/bankhpvo/public_html/include/twilioController.php(18): Twilio\Rest\Api\V2010\Account\MessageList->create('+2347037810014', Object(Twilio\Values))
+#3 /home/bankhpvo/public_html/include/twilioController.php(27): twilioController::sendSmsCode('+2347037810014', 'Helll Ofofo  ka...')
+#4 {main}
+  thrown in /home/bankhpvo/public_html/include/vendor/twilio/sdk/Twilio/Version.php on line 85
