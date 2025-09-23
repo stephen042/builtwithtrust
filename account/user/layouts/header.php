@@ -239,7 +239,7 @@ $cardCheck = $cardstmt->fetch(PDO::FETCH_ASSOC);
     </style>
 
     <!-- Chatway -->
-    <script id="chatway" async="true" src="https://cdn.chatway.app/widget.js?id=8h5mfCgrzkGJ"></script>
+    <!-- <script id="chatway" async="true" src="https://cdn.chatway.app/widget.js?id=8h5mfCgrzkGJ"></script> -->
 </head>
 
 <body class="sidebar-noneoverflow">
