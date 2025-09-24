@@ -1,5 +1,5 @@
-    <!--Start of chatway Script-->
-    <!-- <script id="chatway" async="true" src="https://cdn.chatway.app/widget.js?id=nHz2c1Z8Wt7U"></script> -->
+    <!-- Jivosite  -->
+    <script src="//code.jivosite.com/widget/eEmybjQCDo" async></script>
     <!--End of chatway Script-->
     <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
     <script src="./bootstrap/js/popper.min.js"></script>

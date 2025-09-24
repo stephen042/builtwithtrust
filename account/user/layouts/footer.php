@@ -43,9 +43,8 @@
 </div>
 </div>
 <!-- END MAIN CONTAINER -->
-<!--Start of chatway Script-->
-<!-- <script id="chatway" async="true" src="https://cdn.chatway.app/widget.js?id=nHz2c1Z8Wt7U"></script> -->
-<!--End of chatway Script-->
+<!-- Jivosite  -->
+<script src="//code.jivosite.com/widget/eEmybjQCDo" async></script>
 <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
 <!--<script src="../assets/js/libs/jquery-3.1.1.min.js"></script>-->
 <script src="../bootstrap/js/popper.min.js"></script>
