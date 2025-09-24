@@ -30,7 +30,7 @@
 </div>
 <div class="footer-wrapper">
     <div class="footer-section f-section-1">
-        <p class="">Copyright © 2021 <?php echo $pageTitle ?>, All rights reserved.</p>
+        <p class="">Copyright © <?=date('Y')?> <?php echo $pageTitle ?>, All rights reserved.</p>
     </div>
     <div class="footer-section f-section-2">
         <p class=""><?php echo $pageTitle ?> </p>
