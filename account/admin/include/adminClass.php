@@ -23,7 +23,7 @@ class message
         // $mail->SMTPDebug = SMTP::DEBUG_SERVER;
         //SMTP Settings (use default cpanel email account)
         $mail->isSMTP();
-        $mail->Host = "server135.web-hosting.com"; //
+        $mail->Host = "server370.web-hosting.com"; //
         $mail->SMTPAuth = true;
         $mail->Username = "support@builtwelltrust.online"; // Default cpanel email account
         $mail->Password = '@builtwelltrust.'; // Default cpanel email password
